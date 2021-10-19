@@ -1,5 +1,4 @@
 ## Hi, My name is Shaheer Ahmed 👋
-#### I am an Electrical Engineering
 
 ![Profile views](https://gpvc.arturio.dev/shaheerahm)
 
