@@ -3,14 +3,14 @@
 
 ![Profile views](https://gpvc.arturio.dev/shaheerahm)
 
-[![Shaheer Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerahm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readmestats)
+- 🔭 I’m currently working on this page [Python](https://github.com/shaheerahm/PythonJPcourse)
+
+Skills: Python / HTML / CSS 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerahm&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: MATLAB / LTSpice / Proteus / Python / JS / HTML / CSS / 
 
-
-- 🔭 I’m currently working on this page [Python](https://github.com/shaheerahm/PythonJPcourse)
+[![Shaheer Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerahm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readmestats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaheerahm)  [<img 
