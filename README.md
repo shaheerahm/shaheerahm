@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Shaheer Ahmed
+# Hi, My name is Shaheer Ahmed 👋
 #### I am an Electrical Engineering
 
 Skills: MATLAB / LTSpice / Proteus / Python / JS / HTML / CSS / 
