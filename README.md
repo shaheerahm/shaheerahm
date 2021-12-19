@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaheerabb" target="blank"><img src="https://img.shields.io/twitter/follow/shaheerabb?logo=twitter&style=for-the-badge" alt="shaheerabb" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/shaheerahm)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/shaheerahm?tab=repositories)
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning **Python**
 - ⚡ Fun fact: I speak 3 languages (English, Sindhi, Urdu)
